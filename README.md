@@ -5,4 +5,7 @@
 &nbsp;&nbsp;
 &nbsp;&nbsp;
  
-<img src="https://github.com/mykdiw/gifs/blob/main/New%20Project.gif" width="500" class="center"/>
+<p align="center">
+  <img src="https://github.com/mykdiw/gifs/blob/main/New%20Project.gif" width="600" />
+</p
+ 
